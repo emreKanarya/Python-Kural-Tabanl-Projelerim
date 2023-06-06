@@ -1,0 +1,1 @@
+# Python-Kural-Tabanl-Projelerim
